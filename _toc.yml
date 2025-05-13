@@ -1,0 +1,26 @@
+# Table of contents
+
+format: jb-book
+root: README
+parts:
+  - caption: Introduction
+    numbered: false
+    chapters:
+    - file: docs/datasets
+    - file: docs/prerequisites
+      sections:
+        - file: docs/prerequisites/earthdatalogin
+        - file: docs/prerequisites/pythonmodules
+        - file: docs/prerequisites/compute
+        - file: docs/prerequisites/git
+#
+  - caption: Events
+    numbered: false
+    chapters:
+    - file: events/2025-SBG/README.md
+#
+  - caption: Others
+    numbered: false
+    chapters:
+    - file: LICENSE
+    - file: CHANGELOG
