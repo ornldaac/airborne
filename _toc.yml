@@ -18,6 +18,8 @@ parts:
     numbered: false
     chapters:
     - file: events/2025-SBG/README.md
+      sections:
+        - file: events/2025-SBG/notebooks/hytes_access
 #
   - caption: Others
     numbered: false
