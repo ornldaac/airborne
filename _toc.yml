@@ -25,6 +25,7 @@ parts:
     chapters:
     - file: events/2025-SBG/README.md
       sections:
+        - file: events/2025-SBG/notebooks/AVIRIS-NG_L3_BioSCape
         - file: events/2025-SBG/notebooks/hytes_access
 #
   - caption: Others
