@@ -13,6 +13,14 @@ parts:
         - file: docs/prerequisites/pythonmodules
         - file: docs/prerequisites/compute
         - file: docs/prerequisites/git
+
+  - caption: Instruments
+    numbered: false
+    chapters:
+    - file: docs/hytes
+      sections:
+        - file: events/2025-SBG/notebooks/hytes_access
+
 #
   - caption: Events
     numbered: false

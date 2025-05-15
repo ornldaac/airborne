@@ -2,7 +2,7 @@
 
 title: NASA Airborne Science Data Tutorials
 author: ORNL DAAC
-logo: docs/airborne.png
+logo: docs/images/airborne.png
 
 # Force re-execution of notebooks on each build.
 execute:
