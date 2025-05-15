@@ -8,7 +8,7 @@ HyTES started science flights in 2012. Since then HyTES has flown on Twin Otter 
 More information about HyTES and its data products are available here: https://hytes.jpl.nasa.gov/
 
 ## Data Products
-| Data Product 
+| Data Product |
 | --- |
 | Level 1a - Calibrated but not geocoded Level 1 Brightness Temperature at Sensor | 
 | Level 1b - Calibrated and geolocated Level 1 Brightness Temperature at Sensor |

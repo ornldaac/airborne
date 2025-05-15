@@ -17,8 +17,8 @@ parts:
   - caption: Instruments
     numbered: false
     chapters:
+    - file: docs/instruments/aviris
     - file: docs/instruments/hytes
-
 #
   - caption: Events
     numbered: false
