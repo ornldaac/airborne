@@ -19,6 +19,7 @@ parts:
     chapters:
     - file: docs/instruments/aviris
     - file: docs/instruments/hytes
+    - file: docs/instruments/master
 #
   - caption: Events
     numbered: false

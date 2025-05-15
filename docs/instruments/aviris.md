@@ -34,3 +34,4 @@ The AVIRIS-3 is the third of the AVIRIS spectrometer FI series and has higher si
 
 
 ## Data Tutorials
+- [AVIRIS Data - Discovery, Access and Analysis](../../events/2025-SBG/notebooks/AVIRIS-NG_L3_BioSCape.ipynb)
