@@ -17,7 +17,7 @@ parts:
   - caption: Instruments
     numbered: false
     chapters:
-    - file: docs/hytes
+    - file: docs/instruments/hytes
 
 #
   - caption: Events
