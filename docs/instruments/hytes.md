@@ -17,5 +17,4 @@ More information about HyTES and its data products are available here: https://h
 
 ## Data Tutorials
 
-```{tableofcontents}
-```
+- [Accessing and Visualizing HyTES data](../../events/2025-SBG/notebooks/hytes_access.ipynb)
