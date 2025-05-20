@@ -22,6 +22,10 @@ The [ORNL DAAC](https://www.earthdata.nasa.gov/centers/ornl-daac) is the NASA Ea
 - AVUELO
 - GEMx
 
+## Slides
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS7vxNQcHmCYAtHlPjM7CQOugouF7hFjFTk_xbQNs9kd8xCM1_CXr4orh-GCV3jEw/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="750" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Agenda
 | Time | Description | Presenter | 
 | --- | --- | --- |
