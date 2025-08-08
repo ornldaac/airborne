@@ -35,5 +35,5 @@ The [ORNL DAAC](https://www.earthdata.nasa.gov/centers/ornl-daac) is the NASA Ea
 
 ## Notebooks
 
-```{tableofcontents}
-```
+- [AVIRIS Data - Discovery, Access, and Visualization](../../notebooks/AVIRIS-NG_L3_BioSCape.ipynb)
+- [HyTES data - Access and Visualization](../../notebooks/hytes_access.ipynb)
