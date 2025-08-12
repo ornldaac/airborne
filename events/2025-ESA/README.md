@@ -16,7 +16,7 @@ This workshop introduces NEON and NASA airborne and field datasets through live-
 
 This workshop is hosted by [National Ecological Observatory Network (NEON)](https://neonscience.org/), NASA [Oak Ridge National Laboratory Distributed Active Archive Center (ORNL DAAC)](https://daac.ornl.gov/) with support from the NASA [Openscapes](https://nasa-openscapes.github.io/) project.
 
-Hands-on exercises will be executed from a[Jupyter Hub on the Openscapes 2i2c cloud instance](https://workshop.openscapes.2i2c.cloud/). Instructions for setting up the Python environment locally are provided in the [prerequisites](../../docs/prerequisites.md).
+Hands-on exercises will be executed from a [Jupyter Hub on the Openscapes 2i2c cloud instance](https://workshop.openscapes.2i2c.cloud/). Instructions for setting up the Python environment locally are provided in the [prerequisites](../../docs/prerequisites.md).
 
 ## Slides
 
