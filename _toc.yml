@@ -20,6 +20,7 @@ parts:
     - file: docs/instruments/aviris
       sections:
         - file: notebooks/AVIRIS-NG_L3_BioSCape
+        - file: notebooks/AVIRIS-NG_L3_invasive_species
     - file: docs/instruments/hytes
       sections:
         - file: notebooks/hytes_access
@@ -29,6 +30,7 @@ parts:
     numbered: false
     chapters:
     - file: events/2025-SBG/README.md
+    - file: events/2025-ESA/README.md
 #
   - caption: Others
     numbered: false
