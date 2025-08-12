@@ -1,9 +1,9 @@
-# ESA 2025 WORKSHOP
+# ESA 2025 Workshop
 ![ESA](images/esa_ornl_earthdata_neon.png)
 
 ## Plot to Plane: Working with NASA and NEON Airborne and Field Datasets
 
-**Date:** Tuesday May 20, 2025
+**Date:** Tuesday August 15, 2025
 
 **Instructors:**  Michele Thornton, Bridget Hass, Rupesh Shrestha
 
