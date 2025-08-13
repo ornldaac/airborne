@@ -1,4 +1,4 @@
-# BioSCape Workshop at BioSpace25
+# BioSpace25 Workshop
 ![BioSpace25](images/BioSpace25_clip_50.jpg)
 
 ## Harnessing analysis tools for biodiversity applications using field, airborne, and orbital remote sensing data from NASA's BioSCAPE campaign

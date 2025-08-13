@@ -1,4 +1,4 @@
-# BioSCape Data Skills Workshop 2024
+# BioSCape Workshop 2024
 ![BioScape](images/bioscape.png)
 
 ## BioSCape Data Skills Workshop - From the Field to the Image
