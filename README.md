@@ -20,11 +20,11 @@ Many NASA Airborne Science Program airborne remote sensing systems are part of a
 - the AVIRIS (Airborne Visible InfraRed Imaging Spectrometer) suite of instruments
   - AVIRIS-Classic
   - AVIRIS-Next Generation
-    - AVIRIS-3
-    - AVIRIS-5
-- MASTER - MODIS/ASTER Airborne Simulator (MASTER)
-- PRISM - Portable Remote Imaging SpectroMeter
-- HyTES - Hyperspectral Thermal Emission Spectrometer
+  - AVIRIS-3
+  - AVIRIS-5
+- MASTER (MODIS/ASTER Airborne Simulator)
+- PRISM (Portable Remote Imaging SpectroMeter)
+- HyTES (Hyperspectral Thermal Emission Spectrometer)
 
 In large part, the NASA AMES Research Center and Jet Propulsion Laboratory develop and manage the instruments and processing systems of the NASA Airborne Science Program.
 
