@@ -29,8 +29,10 @@ parts:
   - caption: Events
     numbered: false
     chapters:
-    - file: events/2025-SBG/README.md
     - file: events/2025-ESA/README.md
+    - file: events/2025-SBG/README.md
+    - file: events/2025-BIOSPACE/README.md
+    - file: events/2024-BIOSCAPE/README.md
 #
   - caption: Others
     numbered: false
