@@ -21,6 +21,7 @@ parts:
       sections:
         - file: notebooks/AVIRIS-NG_L3_BioSCape
         - file: notebooks/AVIRIS-NG_L3_invasive_species
+        - file: notebooks/AVIRIS-NG_L3_CWC
     - file: docs/instruments/hytes
       sections:
         - file: notebooks/hytes_access
