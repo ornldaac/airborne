@@ -18,12 +18,17 @@ This workshop is hosted by [National Ecological Observatory Network (NEON)](http
 
 Hands-on exercises will be executed from a [Jupyter Hub on the Openscapes 2i2c cloud instance](https://workshop.openscapes.2i2c.cloud/). Instructions for setting up the Python environment locally are provided in the [prerequisites](../../docs/prerequisites.md).
 
+## Notebooks
+
+- [Earthdata Search and Discovery of Airborne AVIRIS Data](../../notebooks/1_AVIRIS_SearchandDiscover.ipynb)
+- [Earthdata Cloud Access and Analysis of Airborne AVIRIS Data](../../notebooks/2_AVIRIS_AccessandAnalysis.ipynb)
+- [Mapping Invasive Species Using Supervised Machine Learning and AVIRIS-NG](../../notebooks/AVIRIS-NG_L3_invasive_species.ipynb)
+
 ## Slides
 
 <iframe src="" frameborder="0" width="750" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-## Agenda
-## Agenda
+## Workshop Agenda
 
 | Time | Description | Leads/Instructors |  
 |------|---------------------|-------------| 
@@ -35,8 +40,3 @@ Hands-on exercises will be executed from a [Jupyter Hub on the Openscapes 2i2c c
 |10:00 AM|NASA Notebooks: Discovery and Analysis of VegPlot and AVIRIS Instrument Data|Michele Thornton| 
 |10:55 AM|Discussion and Wrap Up|All|
 
-## Notebooks
-
-- [Earthdata Search and Discovery of Airborne AVIRIS Data](../../notebooks/1_AVIRIS_SearchandDiscover.ipynb)
-- [Earthdata Cloud Access and Analysis of Airborne AVIRIS Data](../../notebooks/2_AVIRIS_AccessandAnalysis.ipynb)
-- [Mapping Invasive Species Using Supervised Machine Learning and AVIRIS-NG](../../notebooks/AVIRIS-NG_L3_invasive_species.ipynb)
