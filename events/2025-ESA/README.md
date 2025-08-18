@@ -37,5 +37,6 @@ Hands-on exercises will be executed from a [Jupyter Hub on the Openscapes 2i2c c
 
 ## Notebooks
 
-- [AVIRIS Data - Discovery, Access, and Visualization](../../notebooks/AVIRIS-NG_L3_BioSCape.ipynb)
+- [Earthdata Search and Discovery of Airborne AVIRIS Data](../../notebooks/1_AVIRIS_SearchandDiscover.ipynb)
+- [Earthdata Cloud Access and Analysis of Airborne AVIRIS Data](../../notebooks/2_AVIRIS_AccessandAnalysis.ipynb)
 - [Mapping Invasive Species Using Supervised Machine Learning and AVIRIS-NG](../../notebooks/AVIRIS-NG_L3_invasive_species.ipynb)
