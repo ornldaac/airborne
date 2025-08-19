@@ -39,4 +39,4 @@ Hands-on exercises will be executed from a [Jupyter Hub on the Openscapes 2i2c c
 
 ## Slides
 
-<iframe src="https://docs.google.com/presentation/d/1gdnOpG15WYDIP6ksHGsnwA7IQznWCB8T7PMa5yzWEY8/edit?usp=sharing" frameborder="0" width="750" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQcQVIwUEpkVXVb1MmJQqJNrvXRN7qYtpcD98aFUuy53G0e9YsTYOUbYPITy-wc8EcEHzyzP1whFHd6/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
