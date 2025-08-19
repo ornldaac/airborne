@@ -24,9 +24,6 @@ Hands-on exercises will be executed from a [Jupyter Hub on the Openscapes 2i2c c
 - [Earthdata Cloud Access and Analysis of Airborne AVIRIS Data](../../notebooks/2_AVIRIS_AccessandAnalysis.ipynb)
 - [Mapping Invasive Species Using Supervised Machine Learning and AVIRIS-NG](../../notebooks/AVIRIS-NG_L3_invasive_species.ipynb)
 
-## Slides
-
-<iframe src="" frameborder="0" width="750" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Workshop Agenda
 
@@ -40,3 +37,6 @@ Hands-on exercises will be executed from a [Jupyter Hub on the Openscapes 2i2c c
 |10:00 AM|NASA Notebooks: Discovery and Analysis of VegPlot and AVIRIS Instrument Data|Michele Thornton| 
 |10:55 AM|Discussion and Wrap Up|All|
 
+## Slides
+
+<iframe src="https://docs.google.com/presentation/d/1gdnOpG15WYDIP6ksHGsnwA7IQznWCB8T7PMa5yzWEY8/edit?usp=sharing" frameborder="0" width="750" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
