@@ -5,22 +5,25 @@ ORNL DAAC is the assigned DAAC for the datasets from the following facility inst
 
 | Instruments | 
 | --- | 
-| [Airborne Visible InfraRed Imaging Spectrometer (AVIRIS)](https://daac.ornl.gov/cgi-bin/dataset_lister.pl?p=47) | 
-| [MODIS/ASTER Airborne Simulator (MASTER)](https://daac.ornl.gov/cgi-bin/dataset_lister.pl?p=43)| 
+| [Airborne Visible InfraRed Imaging Spectrometer (AVIRIS)](https://www.earthdata.nasa.gov/data/projects/aviris) | 
+| [MODIS/ASTER Airborne Simulator (MASTER)](https://www.earthdata.nasa.gov/data/projects/master)| 
+| [Hyperspectral Thermal Emissions Spectrometer (HyTES)](https://www.earthdata.nasa.gov/data/instruments/hytes)| 
 
 ## Datasets from Airborne Campaigns
 
 | Campaigns | 
 | --- | 
-| [Active Sensing of CO2 Emissions over Nights, Days, and Seasons (ASCENDS)](https://daac.ornl.gov/cgi-bin/dataset_lister.pl?p=45) |
-| [AfriSAR](https://daac.ornl.gov/cgi-bin/dataset_lister.pl?p=38) |
-| [Airborne Microwave Observatory of Subcanopy and Subsurface (AirMOSS)](https://daac.ornl.gov/cgi-bin/dataset_lister.pl?p=36) |
-| [Atmospheric Tomography Mission (ATom)](https://daac.ornl.gov/cgi-bin/dataset_lister.pl?p=39) |
-| [Atmospheric Carbon and Transport - America (ACT-America)](https://daac.ornl.gov/cgi-bin/dataset_lister.pl?p=37) |
-| [Arctic-Boreal Vulnerability Experiment (ABoVE)](https://daac.ornl.gov/cgi-bin/dataset_lister.pl?p=34) |
-| [Biodiversity Survey of the Cape (BioSCape)](https://daac.ornl.gov/cgi-bin/dataset_lister.pl?p=51) |
-| [Carbon in Arctic Reservoirs Vulnerability Experiment (CARVE)](https://daac.ornl.gov/cgi-bin/dataset_lister.pl?p=35) |
-| [CO2 and MEthane eXperiment (COMEX)](https://daac.ornl.gov/cgi-bin/dataset_lister.pl?p=46) |
-| [Delta-X](https://daac.ornl.gov/cgi-bin/dataset_lister.pl?p=41) |
-| [SBG High Frequency Time Series (SHIFT)](https://daac.ornl.gov/cgi-bin/dataset_lister.pl?p=49) |
-| [Western Diversity Time Series (WDTS)](https://daac.ornl.gov/cgi-bin/dataset_lister.pl?p=53) |
+| [Active Sensing of CO2 Emissions over Nights, Days, and Seasons (ASCENDS)](https://www.earthdata.nasa.gov/data/projects/ascends) |
+| [AfriSAR](https://www.earthdata.nasa.gov/data/projects/afrisar) |
+| [Airborne Microwave Observatory of Subcanopy and Subsurface (AirMOSS)](https://www.earthdata.nasa.gov/data/projects/airmoss) |
+| [Atmospheric Tomography Mission (ATom)](https://www.earthdata.nasa.gov/data/projects/atom) |
+| [Atmospheric Carbon and Transport - America (ACT-America)](https://www.earthdata.nasa.gov/data/projects/act-america) |
+| [Arctic-Boreal Vulnerability Experiment (ABoVE)](https://www.earthdata.nasa.gov/data/projects/above) |
+| [Airborne Validation Unified Experiment Land to Ocean (AVUELO)](https://www.earthdata.nasa.gov/data/projects/avuelo) |
+| [Biodiversity Survey of the Cape (BioSCape)](https://www.earthdata.nasa.gov/data/projects/bioscape) |
+| [Carbon in Arctic Reservoirs Vulnerability Experiment (CARVE)](https://www.earthdata.nasa.gov/data/projects/carve) |
+| [CO2 and MEthane eXperiment (COMEX)](https://www.earthdata.nasa.gov/data/projects/comex) |
+| [Delta-X](https://www.earthdata.nasa.gov/data/projects/delta-x) |
+| [GEM-X](https://www.earthdata.nasa.gov/data/projects/gemx) |
+| [SBG High Frequency Time Series (SHIFT)](https://www.earthdata.nasa.gov/data/projects/shift) |
+| [Western Diversity Time Series (WDTS)](https://www.earthdata.nasa.gov/data/projects/wdts) |

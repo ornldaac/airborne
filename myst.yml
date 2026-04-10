@@ -1,0 +1,48 @@
+version: 1
+project:
+  title: NASA Airborne Science Data Tutorials
+  github: ornldaac/airborne
+  bibliography:
+    - references.bib
+  exports:
+    - format: pdf
+      template: plain_latex_book
+      output: exports/airborne.pdf
+  toc:
+    - file: README.md
+    - title: Introduction
+      children:
+        - file: docs/datasets.md
+        - title: Prerequisites
+          children:
+            - file: docs/prerequisites/earthdatalogin.md
+            - file: docs/prerequisites/pythonmodules.md
+            - file: docs/prerequisites/compute.md
+            - file: docs/prerequisites/git.md
+    - title: Instruments
+      children:
+        - file: docs/instruments/aviris.md
+          children:
+            - file: notebooks/1_AVIRIS_SearchandDiscover.ipynb
+            - file: notebooks/2_AVIRIS_AccessandAnalysis.ipynb
+            - file: notebooks/AVIRIS-NG_L3_BioSCape.ipynb
+            - file: notebooks/AVIRIS-NG_L3_invasive_species.ipynb
+            - file: notebooks/AVIRIS-NG_L3_CWC.ipynb
+        - file: docs/instruments/hytes.md
+          children:
+            - file: notebooks/hytes_access.ipynb
+        - file: docs/instruments/master.md
+    - title: Events
+      children:
+        - file: events/2025-ARSET/README.md
+        - file: events/2025-ESA/README.md
+        - file: events/2025-SBG/README.md
+        - file: events/2025-BIOSPACE/README.md
+        - file: events/2024-BIOSCAPE/README.md
+
+site:
+  options:
+    favicon: docs/images/favicon.ico
+    logo: docs/images/airborne.png
+    folders: true
+  template: book-theme
