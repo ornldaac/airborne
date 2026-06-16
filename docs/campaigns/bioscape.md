@@ -1,0 +1,7 @@
+# BioSCape
+
+Biodiversity Survey of the Cape (BioSCape) is a research project that uses remote sensing and field data to understand the distribution, function, and importance of biodiversity on land and in the water in the Greater Cape Floristic Region (GCFR), South Africa, one of the world’s 36 biodiversity hotspots. 
+
+In October/November of 2023, the US National Aeronautics and Space Administration (NASA) conducted its first Biodiversity field and airborne campaign across terrestrial and aquatic environments in the South African Greater Cape Floristic Region (GCFR). From 4 airborne instruments (Airborne Visible-Infrared Imaging Spectrometer - Next Generation (AVIRIS-NG), Portable Remote Imaging SpectroMeter (PRISM), Hyperspectral Thermal Emission Spectrometer (HyTES), and Land, Vegetation, and Ice Sensor (LVIS)) the BioSCape Campaign’s remote sensing data products provides an unprecedented level of image spectroscopy from VSWIR to TIR wavelengths as well as full-waveform laser altimeter measurements. Airborne data are supplemented with a rich combination of contemporaneous biodiversity-relevant field observations toward an approach to measure and understand functional, phylogenetic, and taxonomic biological diversity as components of ecosystem function.
+
+A majority of the BioSCape Campaign data are archived through ORNL DAAC and available at  https://www.earthdata.nasa.gov/data/projects/bioscape.

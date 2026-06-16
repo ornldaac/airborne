@@ -4,3 +4,7 @@
 _build
 # mac service store
 .DS_Store
+# hytes sample data
+notebooks/hytes/data/HyTES-1747164185996a
+# uavsar data
+notebooks/uavsar/data

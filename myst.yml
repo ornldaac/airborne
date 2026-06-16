@@ -10,28 +10,54 @@ project:
       output: exports/airborne.pdf
   toc:
     - file: README.md
-    - title: Introduction
-      children:
-        - file: docs/datasets.md
-        - title: Prerequisites
-          children:
-            - file: docs/prerequisites/earthdatalogin.md
-            - file: docs/prerequisites/pythonmodules.md
-            - file: docs/prerequisites/compute.md
-            - file: docs/prerequisites/git.md
+    - file: docs/prerequisites.md
     - title: Instruments
       children:
-        - file: docs/instruments/aviris.md
+        - file: notebooks/aviris/README.md
           children:
-            - file: notebooks/1_AVIRIS_SearchandDiscover.ipynb
-            - file: notebooks/2_AVIRIS_AccessandAnalysis.ipynb
-            - file: notebooks/AVIRIS-NG_L3_BioSCape.ipynb
-            - file: notebooks/AVIRIS-NG_L3_invasive_species.ipynb
-            - file: notebooks/AVIRIS-NG_L3_CWC.ipynb
-        - file: docs/instruments/hytes.md
+            - file: notebooks/aviris/1_AVIRIS_SearchandDiscover.ipynb
+            - file: notebooks/aviris/2_AVIRIS_AccessandAnalysis.ipynb
+            - file: notebooks/aviris/AVIRIS-NG_L3_invasive_species.ipynb
+            - file: notebooks/aviris/AVIRIS-NG_L3_CWC.ipynb
+        - file: notebooks/hytes/README.md
           children:
-            - file: notebooks/hytes_access.ipynb
-        - file: docs/instruments/master.md
+            - file: notebooks/hytes/HYTES_access.ipynb
+        - file: notebooks/master/README.md
+          children:
+            - file: notebooks/master/MASTER_access.md
+        - file: notebooks/prism/README.md
+          children:
+            - file: notebooks/prism/PRISM_access.md      
+        - file: notebooks/uavsar/README.md
+          children:
+            - file: notebooks/uavsar/UAVSAR_above_soil.ipynb
+            - file: notebooks/uavsar/UAVSAR_deltax_slc.ipynb
+        - file: notebooks/other/README.md
+          children:
+            - file: notebooks/other/LVIS_BioSCape.ipynb
+            - file: notebooks/other/OTHER_access_airborne_lidar.ipynb
+        - file: notebooks/field/README.md
+          children:
+            - file: notebooks/field/FIELD_ecosis_api.ipynb
+            - file: notebooks/field/FIELD_gedi_icesat2.ipynb
+    - title: Campaigns
+      children:
+        - file: docs/campaigns/bioscape.md
+          children:
+            - file: notebooks/aviris/2_AVIRIS_AccessandAnalysis.ipynb
+            - file: notebooks/aviris/AVIRIS-NG_L3_invasive_species.ipynb
+            - file: notebooks/aviris/AVIRIS-NG_L3_CWC.ipynb
+            - file: notebooks/other/LVIS_BioSCape.ipynb
+        - file: docs/campaigns/cms.md
+          children:
+            - file: notebooks/other/OTHER_access_airborne_lidar.ipynb
+            - file: notebooks/cms/CMS_search.ipynb
+        - file: docs/campaigns/above.md
+          children:
+            - file: notebooks/uavsar/UAVSAR_above_soil.ipynb
+        - file: docs/campaigns/deltax.md
+          children:
+            - file: notebooks/uavsar/UAVSAR_deltax_slc.ipynb
     - title: Events
       children:
         - file: events/2025-ARSET/README.md
@@ -40,9 +66,61 @@ project:
         - file: events/2025-BIOSPACE/README.md
         - file: events/2024-BIOSCAPE/README.md
 
+
 site:
   options:
     favicon: docs/images/favicon.ico
     logo: docs/images/airborne.png
     folders: true
+    hide_toc: false
   template: book-theme
+  nav:
+    - title: Instruments
+      children:
+        - title: AVIRIS
+          url: /notebooks/aviris/readme
+        - title: HyTES
+          url: /notebooks/hytes/readme
+        - title: MASTER
+          url: /notebooks/master/README
+        - title: PRISM
+          url: /notebooks/prism/README
+        - title: UAVSAR
+          url: /notebooks/uavsar/README
+        - title: Other Airborne
+          url: /notebooks/other/README
+        - title: Field Data
+          url: /notebooks/field/README
+    - title: Campaigns
+      children:
+        - title: GEMX
+          url: /docs/campaigns/gemx
+        - title: AVUELO
+          url: /docs/campaigns/avuelo
+        - title: BioSCAPE
+          url: /docs/campaigns/bioscape
+        - title: CMS
+          url: /docs/campaigns/cms
+        - title: ABOVE
+          url: /docs/campaigns/above
+        - title: Delta-X
+          url: /docs/campaigns/deltax
+    - title: Events
+      children:
+        - title: 2025 ARSET
+          url: /events/2025-arset/readme
+        - title: 2025 ESA
+          url: /events/2025-esa/readme
+        - title: 2025 SBG
+          url: /events/2025-sbg/readme
+        - title: 2025 BioSpace
+          url: /events/2025-biospace/readme
+        - title: 2024 BioSCAPE
+          url: /events/2024-bioscape/readme
+  actions:
+    - title: GitHub
+      url: https://github.com/ornldaac/airborne
+  parts:
+    primary_sidebar_footer: earthdata_footer.md
+
+
