@@ -49,6 +49,9 @@ project:
         - file: docs/campaigns/above.md
           children:
             - file: notebooks/uavsar/UAVSAR_above_soil.ipynb
+        - file: docs/campaigns/gemx.md
+          children:
+            - file: notebooks/aviris/AVIRIS-5_L2A_ENVI.md
         - file: docs/campaigns/deltax.md
           children:
             - file: notebooks/uavsar/UAVSAR_deltax_slc.ipynb
@@ -89,8 +92,6 @@ site:
       children:
         - title: GEMX
           url: /docs/campaigns/gemx
-        - title: AVUELO
-          url: /docs/campaigns/avuelo
         - title: BioSCAPE
           url: /docs/campaigns/bioscape
         - title: CMS
