@@ -13,6 +13,7 @@ For this tutorial, we will use a granule [AV520250801t165910_005_L1B](https://se
 Open ENVI and go to `File > Open As > Scientific Formats > HDF5/NetCDF-4`. 
 
 In the next window, select the file. This will be display a "Dataset Browser" as shown below. The following browser is from ENVI 6.2, yours might look little different based on what version of the software you are using. 
+
 ![ENVI data browser](images/envi_data_browser.png)
 
 ## 3. Raster builder
