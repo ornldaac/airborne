@@ -45,9 +45,9 @@ Now, assign both `lat` and `lon` coordinates to the "Geographic Information" fie
 `/lon` to `Geographic Information -> Longitude` and
 `/lat` to `Geographic Information -> Latitude`
 
-## 4. ENVI
-
 ![latitude](images/envi5.png)
+
+## 4. ENVI
 
 Once all required datasets are mapped, click "Open Rasters" button to open the AVIRIS-5 file into ENVI. You can also click `Views > Reference Map Link` to check the location of the image. And, click `Display > Profiles > Spectral` to display spectral profile of a pixel.
 
