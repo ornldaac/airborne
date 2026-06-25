@@ -1,54 +1,35 @@
-# Open AVIRIS-5 netCDF-4 files in ENVI
+# Working with AVIRIS-5 in ENVI
 
-AVIRIS-5 datasets are provided in netCDF-4 format, which can be opened in the geospatial analysis software [ENVI](https://www.nv5geospatialsoftware.com/Products/ENVI). In this tutorial, we will learn how to open a AVIRIS-5 netCDF file correctly in ENVI software.
+AVIRIS-5 datasets are provided in netCDF-4 format. In this tutorial, we will learn how to convert AVIRIS-5 netCDF file to ENVI format and open in the geospatial analysis software [ENVI](https://www.nv5geospatialsoftware.com/Products/ENVI).
 
-## 1. Download L1B granule
+
+## Download L1B granule
 
 For this tutorial, we will use a granule [AV520250801t165910_005_L1B](https://search.earthdata.nasa.gov/search/granules?p=C4076410273-ORNL_CLOUD&pg[0][v]=f&pg[0][id]=*AV520250801t165910_005_L1B*) as an example. Go the [granule link](https://search.earthdata.nasa.gov/search/granules?p=C4076410273-ORNL_CLOUD&pg[0][v]=f&pg[0][id]=*AV520250801t165910_005_L1B*), login using Earthdata login, and download the granule as shown below.
 
 ![Download AV5 granule in Earthdata Search](images/eds_av5_download.png)
 
+## Convert AVIRIS-5 netCDF to ENVI format
 
-## 2. Open AVIRIS-5 granule in ENVI
-Open ENVI and go to `File > Open As > Scientific Formats > HDF5/NetCDF-4`. 
+Python [`SpectralUtil` tools](https://github.com/emit-sds/SpectralUtil) supports conversion of AVIRIS-5 netCDF4 formatted files to ENVI format. We will use `SpectralUtil` to convert the downloaded netCDF file.
 
-In the next window, select the file. This will be display a "Dataset Browser" as shown below. The following browser is from ENVI 6.2, yours might look little different based on what version of the software you are using. 
+First, install the `SpectralUtil` using the `pixi`. Follow the instructions [here](https://pixi.prefix.dev/latest/#installation) to install pixi if it is not alerady installed. 
 
-![ENVI data browser](images/envi_data_browser.png)
+```
+git clone git@github.com:emit-sds/SpectralUtil.git
+cd SpectralUtil
+pixi install
+```
 
-## 3. Raster builder
-Now, we will map the netCDF dataset to the raster building as 1) dataset, 2) metadata, and 3) georeference.
+Now, we can use `pixi run` to run the following command
 
-### Dataset
-Since this is a Level 1B radiance file, we will first add `/radiance/radiance` variable to the `Raster 1` as shown below.
+```
+spectral_util reformat nc-to-envi AV520250801t165910_005_L2A_OE_da8b3ef7_RFL_ORT.nc AV520250801t165910_005_L2A_OE_da8b3ef7_RFL_ORT.bin
+```
 
-![Dataset field](images/envi1.png)
 
-### Metadata Fields
-We will add additional metadata field to the raster builder. Some of the important metadata fields are shown below.
+## 3. Open the file in ENVI
 
-`/radiance/wavelength` to `Metadata -> Wavelength`
+Once the conversion is complete, the output file `AV520250801t165910_005_L2A_OE_da8b3ef7_RFL_ORT.bin` can be directly opened into ENVI. You can also click `Views > Reference Map Link` to check the location of the image. And, click `Display > Profiles > Spectral` to display spectral profile of a pixel, and `Display > Cursor Value` to display cursor value and location.
 
-![Dataset field - wavelength](images/envi2.png)
-
-`/radiance/fwhm` to `Metadata -> FWHM`
-
-![Dataset field - fwhm](images/envi3.png)
-
-`/radiance/radiance/_FillValue` to `Metadata -> Data Ignore Value`
-
-![Dataset field - fill value](images/envi4.png)
-
-### Georeference
-Now, assign both `lat` and `lon` coordinates to the "Geographic Information" fields
-
-`/lon` to `Geographic Information -> Longitude` and
-`/lat` to `Geographic Information -> Latitude`
-
-![latitude](images/envi5.png)
-
-## 4. ENVI
-
-Once all required datasets are mapped, click "Open Rasters" button to open the AVIRIS-5 file into ENVI. You can also click `Views > Reference Map Link` to check the location of the image. And, click `Display > Profiles > Spectral` to display spectral profile of a pixel.
-
-![Image displayed in ENVI](images/envi7.png)
+![Image displayed in ENVI](images/envi_av5_l2a.png)
