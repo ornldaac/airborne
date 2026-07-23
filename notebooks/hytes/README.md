@@ -17,4 +17,4 @@ More information about HyTES and its data products are available here: https://h
 
 ## Data Tutorials
 
-- [Accessing and Visualizing HyTES data](notebooks/hytes/hytes-access)
+- [Accessing and Visualizing HyTES data](/notebooks/hytes/hytes-access)
