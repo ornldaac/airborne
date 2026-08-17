@@ -3,7 +3,7 @@
 
 The Hyperspectral Thermal Emissions Spectrometer (HyTES) instrument has 512 pixels across track with pixel sizes in the range of 5 to 50 m depending on aircraft flying height and 256 spectral channels between 7.5 and 12 micrometer. 
 
-HyTES started science flights in 2012. Since then HyTES has flown on Twin Otter aircraft from Twin Otter International and the British Antarctic Survey, [NASA ER-2](https://airbornescience.nasa.gov/aircraft/ER-2_-_AFRC) and [NASA Gulfstream V](httphttps://airbornescience.nasa.gov/aircraft/Gulfstream_V_-_JSC).
+HyTES started science flights in 2012. Since then HyTES has flown on Twin Otter aircraft from Twin Otter International and the British Antarctic Survey, [NASA ER-2](https://airbornescience.nasa.gov/aircraft/ER-2_-_AFRC) and [NASA Gulfstream V](https://airbornescience.nasa.gov/aircraft/Gulfstream_V_-_JSC).
 
 More information about HyTES and its data products are available here: https://hytes.jpl.nasa.gov/
 
@@ -17,4 +17,4 @@ More information about HyTES and its data products are available here: https://h
 
 ## Data Tutorials
 
-- [Accessing and Visualizing HyTES data](/notebooks/hytes/hytes-access)
+- [Accessing and Visualizing HyTES data](HYTES_access.ipynb)

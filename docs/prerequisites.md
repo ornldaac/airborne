@@ -9,7 +9,7 @@ Please visit https://urs.earthdata.nasa.gov to register and manage your Earthdat
 Please refer to this page for more info about [how to register to the EDL](https://urs.earthdata.nasa.gov/documentation/what_do_i_need_to_know). 
 
 ## Python Modules
-The tutorials requires additional Python modules installed in your system. These are listed on the [requirements.txt](../../requirements.txt) file within the repository. You can install the modules using `pip` as:
+The tutorials requires additional Python modules installed in your system. These are listed on the [requirements.txt](../requirements.txt) file within the repository. You can install the modules using `pip` as:
 
 ```bash
 pip install -r requirements.txt
@@ -69,8 +69,8 @@ You are now set up to use SSH for connecting to GitHub.
 
 ### Git Clone
 
-To get started, clone this [GEDI data tutorials](https://github.com/ornldaac/gedi_tutorials) git repository by running the following command on your terminal (or Git bash in Windows):
+To get started, clone this [airborne data tutorials](https://github.com/ornldaac/airborne) git repository by running the following command on your terminal (or Git bash in Windows):
 
 ```bash
-git clone git@github.com:ornldaac/gedi_tutorials.git
+git clone git@github.com:ornldaac/airborne.git
 ```

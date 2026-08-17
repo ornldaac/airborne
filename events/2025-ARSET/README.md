@@ -27,4 +27,4 @@ By the end of this training attendees will be able to:
 
 ## Notebooks
 
-- [Mapping Invasive Species Using Supervised Machine Learning and AVIRIS-NG](../../notebooks/AVIRIS-NG_L3_invasive_species.ipynb)
+- [Mapping Invasive Species Using Supervised Machine Learning and AVIRIS-NG](../../notebooks/aviris/AVIRIS-NG_L3_invasive_species.ipynb)
