@@ -17,6 +17,7 @@ project:
           children:
             - file: notebooks/aviris/1_AVIRIS_SearchandDiscover.ipynb
             - file: notebooks/aviris/2_AVIRIS_AccessandAnalysis.ipynb
+            - file: notebooks/aviris/AVIRIS-C_bulk_download.ipynb
             - file: notebooks/aviris/AVIRIS-NG_L3_invasive_species.ipynb
             - file: notebooks/aviris/AVIRIS-NG_L3_CWC.ipynb
         - file: notebooks/hytes/README.md
