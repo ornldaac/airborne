@@ -22,7 +22,10 @@ project:
             - file: notebooks/aviris/AVIRIS-NG_L3_CWC.ipynb
         - file: notebooks/hytes/README.md
           children:
-            - file: notebooks/hytes/HYTES_access.ipynb 
+            - file: notebooks/hytes/HYTES_access.ipynb
+        - file: notebooks/master/README.md
+          children:
+            - file: notebooks/master/MASTER_L1_access.ipynb
         - file: notebooks/uavsar/README.md
           children:
             - file: notebooks/uavsar/UAVSAR_above_soil.ipynb
