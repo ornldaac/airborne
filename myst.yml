@@ -83,15 +83,15 @@ site:
         - title: HyTES
           url: /notebooks/hytes/readme
         - title: MASTER
-          url: /notebooks/master/README
+          url: /notebooks/master/readme
         - title: PRISM
-          url: /notebooks/prism/README
+          url: /notebooks/prism/readme
         - title: UAVSAR
-          url: /notebooks/uavsar/README
+          url: /notebooks/uavsar/readme
         - title: Other Airborne
-          url: /notebooks/other/README
+          url: /notebooks/other/readme
         - title: Field Data
-          url: /notebooks/field/README
+          url: /notebooks/field/readme
     - title: Campaigns
       children:
         - title: GEMX
