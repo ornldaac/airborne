@@ -26,6 +26,7 @@ project:
         - file: notebooks/master/README.md
           children:
             - file: notebooks/master/MASTER_L1_access.ipynb
+            - file: notebooks/master/MASTER_L2_access.ipynb
         - file: notebooks/uavsar/README.md
           children:
             - file: notebooks/uavsar/UAVSAR_above_soil.ipynb
@@ -56,6 +57,7 @@ project:
         - file: docs/campaigns/gemx.md
           children:
             - file: notebooks/aviris/AVIRIS-5_L2A_ENVI.md
+            - file: notebooks/master/MASTER_L2_access.ipynb
         - file: docs/campaigns/deltax.md
           children:
             - file: notebooks/uavsar/UAVSAR_deltax_slc.ipynb
