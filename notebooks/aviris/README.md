@@ -34,4 +34,8 @@ The AVIRIS-3 is the third of the AVIRIS spectrometer FI series and has higher si
 
 
 ## Data Tutorials
-- [AVIRIS Data - Discovery, Access and Analysis](AVIRIS-NG_L3_BioSCape)
+- [Search and Discovery of AVIRIS Data](1_AVIRIS_SearchandDiscover.ipynb)
+- [Cloud-based Access and Analysis of AVIRIS Data](2_AVIRIS_AccessandAnalysis.ipynb)
+- [Bulk Download AVIRIS dataset](AVIRIS-C_bulk_download.ipynb)
+- [Mapping Invasive Species Using AVIRIS-NG Data](AVIRIS-NG_L3_invasive_species.ipynb)
+- [Canopy water content from AVIRIS-NG data](AVIRIS-NG_L3_CWC.ipynb)

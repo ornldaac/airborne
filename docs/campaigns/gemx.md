@@ -7,3 +7,4 @@ A majority of the Delta-X data are archived at  https://www.earthdata.nasa.gov/d
 ## Data Tutorials
 
 - [Working with AVIRIS-5 files in ENVI](../../notebooks/aviris/AVIRIS-5_L2A_ENVI.md)
+- [Access and Visualization of MASTER L2 Land Surface Temperature and Emissivity](../../notebooks/master/MASTER_L2_access.ipynb)

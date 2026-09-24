@@ -28,6 +28,6 @@ archived at a NASA DAAC.
 ```
 
 ## Data Tutorials
-These data tutorials will introduce how to search and discover CMS datasets and access and visualize the datasets using various
-data services and tools. The tutorials will also demonstrate how to integrate the CMS datasets with other 
-NASA datasets such as GEDI and ICESat-2 lidar datasets.
+
+- [Discover CMS Datasets](../../notebooks/cms/CMS_search.ipynb)
+- [Access CMS LiDAR data](../../notebooks/other/OTHER_access_airborne_lidar.ipynb)
