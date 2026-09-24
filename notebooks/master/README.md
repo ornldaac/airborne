@@ -9,3 +9,4 @@ MASTER datasets are available at https://www.earthdata.nasa.gov/data/projects/ma
 ## Data Tutorials
 
 - [Access and Visualization of MASTER L1B Radiance Data](MASTER_L1_access.ipynb)
+- [Access and Visualization of MASTER L2 Land Surface Temperature and Emissivity](MASTER_L2_access.ipynb)
