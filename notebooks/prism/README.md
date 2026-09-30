@@ -6,4 +6,4 @@ PRISM datasets are available at https://www.earthdata.nasa.gov/data/instruments/
 
 ## Data Tutorials
 
-- [Access and Visualization of PRISM L1B Radiance from PACE-PAX](PRISM_PACEPAX_L1B.ipynb)
+- [Access and Orthorectify PRISM L1B Radiance](PRISM_PACEPAX_L1B.ipynb)
