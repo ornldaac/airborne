@@ -28,6 +28,9 @@ project:
           children:
             - file: notebooks/master/MASTER_L1_access.ipynb
             - file: notebooks/master/MASTER_L2_access.ipynb
+        - file: notebooks/prism/README.md
+          children:
+            - file: notebooks/prism/PRISM_PACEPAX_L1B.ipynb
         - file: notebooks/uavsar/README.md
           children:
             - file: notebooks/uavsar/UAVSAR_above_soil.ipynb
