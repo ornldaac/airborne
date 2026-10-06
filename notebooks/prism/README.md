@@ -7,3 +7,4 @@ PRISM datasets are available at https://www.earthdata.nasa.gov/data/instruments/
 ## Data Tutorials
 
 - [Access and Orthorectify PRISM L1B Radiance](PRISM_PACEPAX_L1B.ipynb)
+- [Water Quality Mapping with PRISM L2A Reflectance from BioSCape](PRISM_BioSCape_L2A_water_quality.ipynb)

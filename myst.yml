@@ -31,6 +31,7 @@ project:
         - file: notebooks/prism/README.md
           children:
             - file: notebooks/prism/PRISM_PACEPAX_L1B.ipynb
+            - file: notebooks/prism/PRISM_BioSCape_L2A_water_quality.ipynb
         - file: notebooks/uavsar/README.md
           children:
             - file: notebooks/uavsar/UAVSAR_above_soil.ipynb
@@ -51,6 +52,7 @@ project:
             - file: notebooks/aviris/AVIRIS-NG_L3_invasive_species.ipynb
             - file: notebooks/aviris/AVIRIS-NG_L3_CWC.ipynb
             - file: notebooks/other/LVIS_BioSCape.ipynb
+            - file: notebooks/prism/PRISM_BioSCape_L2A_water_quality.ipynb
         - file: docs/campaigns/cms.md
           children:
             - file: notebooks/other/OTHER_access_airborne_lidar.ipynb

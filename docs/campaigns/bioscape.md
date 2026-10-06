@@ -12,3 +12,4 @@ A majority of the BioSCape Campaign data are archived at  https://www.earthdata.
 - [Mapping Invasive Species Using AVIRIS-NG Data](../../notebooks/aviris/AVIRIS-NG_L3_invasive_species.ipynb)
 - [Canopy water content from AVIRIS-NG data](../../notebooks/aviris/AVIRIS-NG_L3_CWC.ipynb)
 - [Exploring and Visualizing BioSCape LVIS and GEDI Data](../../notebooks/other/LVIS_BioSCape.ipynb)
+- [Water Quality Mapping with PRISM L2A Reflectance from BioSCape](../../notebooks/prism/PRISM_BioSCape_L2A_water_quality.ipynb)
