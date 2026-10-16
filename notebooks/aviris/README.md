@@ -1,9 +1,9 @@
 # AVIRIS
 ![alt text](images/aviris.png)
 
-The Airborne Visible InfraRed Imaging Spectrometer - Classic ([AVIRIS-C](https://aviris.jpl.nasa.gov/)), Next Generation ([AVIRIS-NG](https://avirisng.jpl.nasa.gov/)), and 3rd Generation (AVIRIS-3) are three Facility Instruments (FIs) that are part of NASA's Airborne Science Program (ASP) and the Jet Propulsion Laboratory's (JPL) Earth Science Airborne Program. 
+The Airborne Visible InfraRed Imaging Spectrometer - Classic ([AVIRIS-C](https://aviris.jpl.nasa.gov/)), Next Generation ([AVIRIS-NG](https://avirisng.jpl.nasa.gov/)), 3rd Generation ([AVIRIS-3](https://www.earthdata.nasa.gov/data/instruments/aviris-3)), and 5th Generation ([AVIRIS-5](https://www.earthdata.nasa.gov/data/instruments/aviris-5)) are four Facility Instruments (FIs) that are part of NASA's Airborne Science Program (ASP) and the Jet Propulsion Laboratory's (JPL) Earth Science Airborne Program. 
 
-Data from AVIRIS-C, AVIRIS-NG, and AVIRIS-3 are applicable to a wide range of studies in the fields of terrestrial and coastal aquatic plant physiology, atmospheric and aerosol studies, environmental science, snow hydrology, geology, volcanology, oceanography, soil and land management, agriculture, and limnology.
+Data from AVIRIS-C, AVIRIS-NG, AVIRIS-3, and AVIRIS-5 are applicable to a wide range of studies in the fields of terrestrial and coastal aquatic plant physiology, atmospheric and aerosol studies, environmental science, snow hydrology, geology, volcanology, oceanography, soil and land management, agriculture, and limnology.
 
 AVIRIS datasets are available at https://www.earthdata.nasa.gov/data/projects/aviris.
 
