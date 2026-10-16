@@ -8,29 +8,39 @@ Data from AVIRIS-C, AVIRIS-NG, and AVIRIS-3 are applicable to a wide range of st
 AVIRIS datasets are available at https://www.earthdata.nasa.gov/data/projects/aviris.
 
 ## AVIRIS-C Datasets
-The AVIRIS-C is an imaging spectrometer that delivers calibrated images of the upwelling spectral radiance in 224 contiguous spectral channels with wavelengths from 400 to 2500 nanometers (nm). 
+The [AVIRIS-C](https://www.earthdata.nasa.gov/data/instruments/aviris-c) is an imaging spectrometer that delivers calibrated images of the upwelling spectral radiance in 224 contiguous spectral channels with wavelengths from 400 to 2500 nanometers (nm). 
 
-| Data Product |
-| --- |
-| [L1B Calibrated Radiance, Facility Instrument Collection](https://doi.org/10.3334/ORNLDAAC/2155) |
-| [L2 Calibrated Reflectance, Facility Instrument Collection](https://doi.org/10.3334/ORNLDAAC/2154) |
+| Dataset | DOI | Short Name | Concept ID |
+|---|---|---|---|
+| AVIRIS-Classic: L1B Calibrated Radiance | [10.3334/ORNLDAAC/2155](https://doi.org/10.3334/ORNLDAAC/2155) | AVIRIS-Classic_L1B_Radiance_2155 | C2714723060-ORNL_CLOUD |
+| AVIRIS-Classic: L2 Calibrated Reflectance  | [10.3334/ORNLDAAC/2154](https://doi.org/10.3334/ORNLDAAC/2154) | AVIRIS-Classic_L2_Reflectance_2154 | C2711871294-ORNL_CLOUD |
 
 ## AVIRIS-NG Datasets
-The AVIRIS-NG is the successor to AVIRIS-Classic and provides high signal-to-noise ratio imaging spectroscopy measurements in 425 contiguous spectral channels with wavelengths in the solar reflected spectral range (380-2510 nm) with 5 nm sampling. The AVIRIS-NG started operation in 2014 and is expected to replace the AVIRIS-C instrument. 
+The [AVIRIS-NG](https://www.earthdata.nasa.gov/data/instruments/aviris-ng) is the successor to AVIRIS-Classic and provides high signal-to-noise ratio imaging spectroscopy measurements in 425 contiguous spectral channels with wavelengths in the solar reflected spectral range (380-2510 nm) with 5 nm sampling. The AVIRIS-NG started operation in 2014 and is expected to replace the AVIRIS-C instrument. 
 
-| Data Product |
-| --- |
-| [L1B Calibrated Radiance, Facility Instrument Collection](https://doi.org/10.3334/ORNLDAAC/2095) |
-| [L2 Surface Reflectance, Facility Instrument Collection](https://doi.org/10.3334/ORNLDAAC/2110) |
+| Dataset | DOI | Short Name | Concept ID |
+|---|---|---|---|
+| AVIRIS-NG L1B Calibrated Radiance | [10.3334/ORNLDAAC/2095](https://doi.org/10.3334/ORNLDAAC/2095) | AVIRIS-NG_L1B_radiance_2095 | C2662359874-ORNL_CLOUD |
+| AVIRIS-NG L2 Surface Reflectance | [10.3334/ORNLDAAC/2110](https://doi.org/10.3334/ORNLDAAC/2110) | AVIRIS-NG_L2_Reflectance_2110 | C4076410273-ORNL_CLOUD |
 
 ## AVIRIS-3 Datasets
-The AVIRIS-3 is the third of the AVIRIS spectrometer FI series and has higher signal-to-noise ratio performance than AVIRIS-C or AVIRIS-NG. The core spectrometer of AVIRIS-3 is an optically fast, F/1.8 Dyson imaging spectrometer spanning a wide width (39.5-degree field of view). The AVIRIS-3 provides measurements in 285 contiguous spectral channels with wavelengths in the solar reflected spectral range (390-2500 nm) with 7.4 nm sampling. The AVIRIS-3 started operation in 2023. 
+The [AVIRIS-3](https://www.earthdata.nasa.gov/data/instruments/aviris-3) is the third of the AVIRIS spectrometer FI series and has higher signal-to-noise ratio performance than AVIRIS-C or AVIRIS-NG. The core spectrometer of AVIRIS-3 is an optically fast, F/1.8 Dyson imaging spectrometer spanning a wide width (39.5-degree field of view). The AVIRIS-3 provides measurements in 285 contiguous spectral channels with wavelengths in the solar reflected spectral range (390-2500 nm) with 7.4 nm sampling. The AVIRIS-3 started operation in 2023. 
 
-| Data Product |
-| --- |
-| [L1B Calibrated Radiance, Facility Instrument Collection](https://doi.org/10.3334/ORNLDAAC/2356) |
-| [L2A Orthocorrected Surface Reflectance, Facility Instrument Collection](https://doi.org/10.3334/ORNLDAAC/2357) |
-| [L2B Greenhouse Gas Enhancements, Facility Instrument Collection](https://doi.org/10.3334/ORNLDAAC/2358) |
+| Dataset | DOI | Short Name | Concept ID |
+|---|---|---|---|
+| AVIRIS-3 L1B Calibrated Radiance | [10.3334/ORNLDAAC/2356](https://doi.org/10.3334/ORNLDAAC/2356) | AV3_L1B_RDN_2356 | C3236537162-ORNL_CLOUD |
+| AVIRIS-3 L2A Orthocorrected Surface Reflectance | [10.3334/ORNLDAAC/2357](https://doi.org/10.3334/ORNLDAAC/2357) | AV3_L2A_RFL_2357 | C3369603199-ORNL_CLOUD |
+| AVIRIS-3 L2B Greenhouse Gas Enhancements | [10.3334/ORNLDAAC/2358](https://doi.org/10.3334/ORNLDAAC/2358) | AV3_L2B_GHG_2358 | C3236537512-ORNL_CLOUD |
+
+## AVIRIS-5 Datasets
+
+The [AVIRIS-5](https://www.earthdata.nasa.gov/data/instruments/aviris-5) is the latest version of NASA AVIRIS spectrometers, following AVIRIS-C, AVIRIS-NG, and AVIRIS-3. AVIRIS-5 has 0.5 to 13 meter ground-sampling spatial resolution and is compatible with the ER-2, B-200, Gulfstream, and other airborne platforms. The spectrometer is identical in design to the Earth Surface Mineral Dust Source Investigation (EMIT) spectrometer that flies on the International Space Station (ISS). The AVIRIS-5 started operation in May 2025.
+
+| Dataset | DOI | Short Name | Concept ID |
+|---|---|---|---|
+| AVIRIS-5 L1B Calibrated Radiance | [10.3334/ORNLDAAC/2483](https://doi.org/10.3334/ORNLDAAC/2483) | AV5_L1B_RDN_2483 | C4076410273-ORNL_CLOUD |
+| AVIRIS-5 L2A Orthocorrected Surface Reflectance | [10.3334/ORNLDAAC/2484](https://doi.org/10.3334/ORNLDAAC/2484) | AV5_L2A_RFL_2484 |  C4184090548-ORNL_CLOUD |
+| AVIRIS-5 L2B Greenhouse Gas Enhancements | [10.3334/ORNLDAAC/2485](https://doi.org/10.3334/ORNLDAAC/2485) | AV5_L2B_GHG_2485 |C4184090548-ORNL_CLOUD |
 
 
 ## Data Tutorials
