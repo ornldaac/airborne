@@ -9,5 +9,5 @@ The AVUELO data are available at https://www.earthdata.nasa.gov/data/projects/av
 - [Search and Subscribe to AVUELO Datasets](../../notebooks/avuelo/AVUELO_1_search_subscribe.ipynb)
 - [Search and Download AVIRIS-3 Granules for a Study Area](../../notebooks/avuelo/AVUELO_2_search_download_granules.ipynb)
 - [Extract Quality Spectra of Tree Crowns from AVIRIS-3 Reflectance](../../notebooks/avuelo/AVUELO_3_AV3_crown_spectra.ipynb)
-- [Retrieve Colocated EMIT and GEDI Satellite Data](../../notebooks/avuelo/AVUELO_5_colocated_EMIT.ipynb)
+- [Retrieve Colocated EMIT Satellite Data](../../notebooks/avuelo/AVUELO_5_colocated_EMIT.ipynb)
 - [Ecosystem Structure from UAVSAR Polarimetric and NISAR Radar: Forests to Mangroves](../../notebooks/avuelo/AVUELO_6_UAVSAR_polsar_NISAR_structure.ipynb)

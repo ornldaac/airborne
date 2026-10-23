@@ -61,7 +61,7 @@ project:
             - file: notebooks/avuelo/AVUELO_1_search_subscribe.ipynb
             - file: notebooks/avuelo/AVUELO_2_search_download_granules.ipynb
             - file: notebooks/avuelo/AVUELO_3_AV3_crown_spectra.ipynb
-            - file: notebooks/avuelo/AVUELO_5_colocated_satellite_data.ipynb
+            - file: notebooks/avuelo/AVUELO_5_colocated_EMIT.ipynb
             - file: notebooks/avuelo/AVUELO_6_UAVSAR_polsar_NISAR_structure.ipynb
         - file: docs/campaigns/cms.md
           children:
