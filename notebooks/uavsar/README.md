@@ -6,3 +6,4 @@ NASA's Uninhabited Aerial Vehicle Synthetic Aperture Radar ([UAVSAR](https://www
 
 - [Calculate Soil Volumetric Water Content using ABoVE UAVSAR Data](UAVSAR_above_soil.ipynb)
 - [Exploring UAVSAR L1 Single Look Complex (SLC) Product](UAVSAR_deltax_slc.ipynb)
+- [Ecosystem Structure from UAVSAR Polarimetric Radar: Forests to Mangroves (AVUELO)](../avuelo/AVUELO_6_UAVSAR_polsar_NISAR_structure.ipynb)

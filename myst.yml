@@ -21,6 +21,8 @@ project:
             - file: notebooks/aviris/AVIRIS-C_bulk_download.ipynb
             - file: notebooks/aviris/AVIRIS-NG_L3_invasive_species.ipynb
             - file: notebooks/aviris/AVIRIS-NG_L3_CWC.ipynb
+            - file: notebooks/avuelo/AVUELO_2_search_download_granules.ipynb
+            - file: notebooks/avuelo/AVUELO_3_AV3_crown_spectra.ipynb
         - file: notebooks/hytes/README.md
           children:
             - file: notebooks/hytes/HYTES_access.ipynb
@@ -36,6 +38,7 @@ project:
           children:
             - file: notebooks/uavsar/UAVSAR_above_soil.ipynb
             - file: notebooks/uavsar/UAVSAR_deltax_slc.ipynb
+            - file: notebooks/avuelo/AVUELO_6_UAVSAR_polsar_NISAR_structure.ipynb
         - file: notebooks/other/README.md
           children:
             - file: notebooks/other/LVIS_BioSCape.ipynb
@@ -53,6 +56,13 @@ project:
             - file: notebooks/aviris/AVIRIS-NG_L3_CWC.ipynb
             - file: notebooks/other/LVIS_BioSCape.ipynb
             - file: notebooks/prism/PRISM_BioSCape_L2A_water_quality.ipynb
+        - file: docs/campaigns/avuelo.md
+          children:
+            - file: notebooks/avuelo/AVUELO_1_search_subscribe.ipynb
+            - file: notebooks/avuelo/AVUELO_2_search_download_granules.ipynb
+            - file: notebooks/avuelo/AVUELO_3_AV3_crown_spectra.ipynb
+            - file: notebooks/avuelo/AVUELO_5_colocated_satellite_data.ipynb
+            - file: notebooks/avuelo/AVUELO_6_UAVSAR_polsar_NISAR_structure.ipynb
         - file: docs/campaigns/cms.md
           children:
             - file: notebooks/other/OTHER_access_airborne_lidar.ipynb
@@ -104,6 +114,8 @@ site:
       children:
         - title: GEMX
           url: /docs/campaigns/gemx
+        - title: AVUELO
+          url: /docs/campaigns/avuelo
         - title: BioSCAPE
           url: /docs/campaigns/bioscape
         - title: CMS

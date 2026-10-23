@@ -50,3 +50,5 @@ The [AVIRIS-5](https://www.earthdata.nasa.gov/data/instruments/aviris-5) is the 
 - [Bulk Download AVIRIS dataset](AVIRIS-C_bulk_download.ipynb)
 - [Mapping Invasive Species Using AVIRIS-NG Data](AVIRIS-NG_L3_invasive_species.ipynb)
 - [Canopy water content from AVIRIS-NG data](AVIRIS-NG_L3_CWC.ipynb)
+- [Search and Download AVIRIS-3 Granules for a Study Area (AVUELO)](../avuelo/AVUELO_2_search_download_granules.ipynb)
+- [Extract Quality Spectra of Tree Crowns from AVIRIS-3 Reflectance (AVUELO)](../avuelo/AVUELO_3_AV3_crown_spectra.ipynb)

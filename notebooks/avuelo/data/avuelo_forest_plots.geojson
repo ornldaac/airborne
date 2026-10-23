@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "avuelo_forest_plots",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"plot_code":"ava","name":"BCI AVA plot","site":"Barro Colorado Island","area_ha":4.8},"geometry":{"type":"Polygon","coordinates":[[[-79.84791,9.156199],[-79.849444,9.15611],[-79.849595,9.158677],[-79.84806,9.158766],[-79.84791,9.156199]]]}},
+{"type":"Feature","properties":{"plot_code":"drayton","name":"BCI Drayton plot","site":"Barro Colorado Island","area_ha":6.9},"geometry":{"type":"Polygon","coordinates":[[[-79.844465,9.148542],[-79.846452,9.14844],[-79.8466,9.151286],[-79.844612,9.151388],[-79.844465,9.148542]]]}},
+{"type":"Feature","properties":{"plot_code":"gigante","name":"Gigante fertilization plot","site":"Gigante Peninsula","area_ha":40.7},"geometry":{"type":"Polygon","coordinates":[[[-79.855973,9.098883],[-79.856216,9.106276],[-79.851694,9.106423],[-79.851451,9.09903],[-79.855973,9.098883]]]}},
+{"type":"Feature","properties":{"plot_code":"p10","name":"BCI 10-ha plot","site":"Barro Colorado Island","area_ha":12.4},"geometry":{"type":"Polygon","coordinates":[[[-79.855159,9.15568],[-79.855116,9.156784],[-79.845889,9.15643],[-79.845932,9.155326],[-79.855159,9.15568]]]}},
+{"type":"Feature","properties":{"plot_code":"p25","name":"BCI 25-ha plot","site":"Barro Colorado Island","area_ha":27.1},"geometry":{"type":"Polygon","coordinates":[[[-79.848184,9.156312],[-79.848312,9.161055],[-79.843605,9.16118],[-79.843477,9.156437],[-79.848184,9.156312]]]}},
+{"type":"Feature","properties":{"plot_code":"p50","name":"BCI 50-ha plot","site":"Barro Colorado Island","area_ha":53.5},"geometry":{"type":"Polygon","coordinates":[[[-79.845917,9.155506],[-79.846098,9.150779],[-79.855406,9.151131],[-79.855225,9.155857],[-79.845917,9.155506]]]}},
+{"type":"Feature","properties":{"plot_code":"pearson","name":"BCI Pearson plot","site":"Barro Colorado Island","area_ha":7.2},"geometry":{"type":"Polygon","coordinates":[[[-79.851834,9.162178],[-79.853851,9.162096],[-79.853972,9.165047],[-79.851956,9.165129],[-79.851834,9.162178]]]}},
+{"type":"Feature","properties":{"plot_code":"sherman","name":"San Lorenzo (Sherman) plot","site":"San Lorenzo","area_ha":11.7},"geometry":{"type":"Polygon","coordinates":[[[-79.97292,9.280334],[-79.97526,9.280327],[-79.975273,9.284437],[-79.972933,9.284444],[-79.97292,9.280334]]]}},
+{"type":"Feature","properties":{"plot_code":"zetek","name":"BCI Zetek plot","site":"Barro Colorado Island","area_ha":6.7},"geometry":{"type":"Polygon","coordinates":[[[-79.859138,9.153035],[-79.859219,9.155823],[-79.857255,9.15588],[-79.857174,9.153091],[-79.859138,9.153035]]]}}
+]
+}
