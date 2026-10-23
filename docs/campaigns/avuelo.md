@@ -1,9 +1,8 @@
 # AVUELO
 
-The Airborne Validation Unified Experiment: Land to Ocean (AVUELO) is a NASA campaign, co-led with the [Smithsonian Tropical Research Institute (STRI)](https://striresearch.si.edu/quantitative-forest-ecology/avuelo/), to advance the validation of spaceborne imaging spectroscopy and radar data for tropical ecosystems and to improve understanding of tropical biodiversity. From 6 to 28 February 2025, the Airborne Visible-Infrared Imaging Spectrometer 3 (AVIRIS-3) flew on a NASA King Air over terrestrial and coastal sites in Panama and Costa Rica, at ~3 m resolution and at ~1 m over focal forest sites such as Barro Colorado Island, Agua Salud, the Parque Metropolitano and San Lorenzo canopy cranes, and the Gigante fertilization experiment. Concurrent field work mapped more than 150 ha of tree crowns with species names and collected leaf samples and spectra. In 2026, the Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR) flew over Panama to measure forest structure and water content.
+The Airborne Validation Unified Experiment Land to Ocean (AVUELO) project aims to advance the validation of spaceborne hyperspectral data for tropical ecosystems. In a February 2025 campaign, AVUELO combined airborne hyperspectral imagery for terrestrial and marine sites in Panama and Costa Rica with contemporaneous field measurements and collections. In May of 2026, UAVSAR flights complimented AVIRIS-3 flights in targeted areas and included concurrent field collections.
 
 The AVUELO data are available at https://www.earthdata.nasa.gov/data/projects/avuelo.
-
 
 ## Data Tutorials
 
