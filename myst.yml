@@ -38,6 +38,7 @@ project:
           children:
             - file: notebooks/uavsar/UAVSAR_above_soil.ipynb
             - file: notebooks/uavsar/UAVSAR_deltax_slc.ipynb
+            - file: notebooks/uavsar/UAVSAR_deltax_interferograms.ipynb
             - file: notebooks/avuelo/AVUELO_6_UAVSAR_polsar_NISAR_structure.ipynb
         - file: notebooks/other/README.md
           children:
