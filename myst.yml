@@ -18,7 +18,7 @@ project:
             - file: notebooks/aviris/1_AVIRIS_SearchandDiscover.ipynb
             - file: notebooks/aviris/2_AVIRIS_AccessandAnalysis.ipynb
             - file: notebooks/aviris/AVIRIS-5_L2A_ENVI.md
-            - file: events/2025-ARSET/SEG_Workshop_QGIS_Demonstration.md
+            - file: events/2026-SEG/SEG_Workshop_QGIS_Demonstration.md
             - file: notebooks/aviris/AVIRIS-C_bulk_download.ipynb
             - file: notebooks/aviris/AVIRIS-NG_L3_invasive_species.ipynb
             - file: notebooks/aviris/AVIRIS-NG_L3_CWC.ipynb
@@ -76,7 +76,7 @@ project:
           children:
             - file: notebooks/aviris/AVIRIS-5_L2A_ENVI.md
             - file: notebooks/master/MASTER_L2_access.ipynb
-            - file: events/2025-ARSET/SEG_Workshop_QGIS_Demonstration.md
+            - file: events/2026-SEG/SEG_Workshop_QGIS_Demonstration.md
         - file: docs/campaigns/deltax.md
           children:
             - file: notebooks/uavsar/UAVSAR_deltax_slc.ipynb
