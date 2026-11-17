@@ -47,6 +47,7 @@ The [AVIRIS-5](https://www.earthdata.nasa.gov/data/instruments/aviris-5) is the 
 - [Search and Discovery of AVIRIS Data](1_AVIRIS_SearchandDiscover.ipynb)
 - [Cloud-based Access and Analysis of AVIRIS Data](2_AVIRIS_AccessandAnalysis.ipynb)
 - [Working with AVIRIS-5 in ENVI](AVIRIS-5_L2A_ENVI.md)
+- [Introduction to VSWIR Imaging Spectroscopy use in Mineral Mapping](../../events/2026-SEG/SEG_Workshop_QGIS_Demonstration.md)
 - [Bulk Download AVIRIS dataset](AVIRIS-C_bulk_download.ipynb)
 - [Mapping Invasive Species Using AVIRIS-NG Data](AVIRIS-NG_L3_invasive_species.ipynb)
 - [Canopy water content from AVIRIS-NG data](AVIRIS-NG_L3_CWC.ipynb)

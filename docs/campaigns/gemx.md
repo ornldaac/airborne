@@ -7,4 +7,5 @@ The GEMx are available at  https://www.earthdata.nasa.gov/data/projects/gemx.
 ## Data Tutorials
 
 - [Working with AVIRIS-5 files in ENVI](../../notebooks/aviris/AVIRIS-5_L2A_ENVI.md)
+- [Introduction to VSWIR Imaging Spectroscopy use in Mineral Mapping](../../events/2026-SEG/SEG_Workshop_QGIS_Demonstration.md)
 - [Access and Visualization of MASTER L2 Land Surface Temperature and Emissivity](../../notebooks/master/MASTER_L2_access.ipynb)
